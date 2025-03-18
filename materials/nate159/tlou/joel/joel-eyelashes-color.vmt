@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+    $basetexture 				"nate159\tlou\joel\joel-eyelashes-color - DXT1"
+	$translucent				"1"
+	//$alphatest					"1"
+	"$nocull"					"1"
+
+}

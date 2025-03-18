@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"nate159\tlou\ellie\head-a-sub-wet-color - DXT1"
+	"$bumpmap"		"nate159\tlou\ellie\new-ellie-head-sp-normal - DXT1"	
+	//"$alphatest"	"1"
+	"$nocull"		"1"
+	//"$translucent"	"1"
+
+	"$phong" 		"1"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	"$phongboost"	"1"
+	//"$phongexponenttexture" "nate159\tlou\ellie\new-ellie-head-spec-exp - DXT1"	
+	
+	$rimlight 					1										
+	$rimlightexponent 			50								
+	$rimlightboost 				0.1
+}

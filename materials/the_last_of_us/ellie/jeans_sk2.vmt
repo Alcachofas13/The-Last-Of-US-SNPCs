@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "the_last_of_us/ellie/jeans_sk2"
+	"$bumpmap" "the_last_of_us/ellie/jeans_bump"
+    "$phong" "1"
+    "$phongboost" "0.1"
+    "$phongexponent" "8"
+    "$phongtint" "[.85 .85 1]"
+    "$phongfresnelranges" "[.2 .5 5]"
+    "$nodecal" "1"
+    "$ambientocclusion" "1"
+    "$halflambert" "0"
+    "$diffuseexp" "1.5"
+    "$rimlight" "1"
+    "$rimlightboost" "2"
+    "$rimlightexponent" "6"
+    "$surfaceprop" "flesh"
+}

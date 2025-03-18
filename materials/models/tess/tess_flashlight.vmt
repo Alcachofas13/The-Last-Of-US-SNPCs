@@ -1,0 +1,50 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Tess/flashlight_d"
+	"$bumpmap" "models/Tess/flashlight_n"
+	"$color2" "[0.9 0.9 0.9]"
+	//"$blendTintByBaseAlpha"	"1"
+
+	//"$phongtint" "[///RGB_VALUE///]"	
+	"$PhongDisableHalfLambert" "1"
+	//TRANSPARENCY AND AO:
+
+	//"$additive" "1"
+	//"$translucent" "[///VALUE///]"
+	//"$alphatest" "[///VALUE///]"
+	//"$alphatestreference" "[///VALUE///]"
+
+	//"$ambientocclusion" "0"
+
+	//SELFILLUMINATION:
+
+	//"$selfillumtint" "[2 2 2]"
+	//"$selfillum" "1"
+	//"$selfillummask" "models/Tess/base"
+
+	//MISC:
+
+	//"$nocull" "////VALUE///"	
+
+	//"$normalmapalphaenvmapmask" "1" 	
+	//"$envmap" "env_cubemap"					
+	//"$envmaptint" "[0.04 0.04 0.04]"				
+ 	//"$envmapFresnel"  "[1.0] "
+
+	$lightwarptexture "models/Tess/lightwarp_soft"
+	//"$phongwarptexture"		""
+	//"$phongexponent" "///NUMBER_VALUE///"	
+
+	//"$rimlight" "1"
+	//"$rimlightboost" "1"
+	//"$rimmask" "1"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"1.5" 		
+	"$phongexponenttexture" "models/Tess/flashlight_s"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.05 0.5 1]"			
+	//"$PhongAlbedoTint" "1"
+
+}

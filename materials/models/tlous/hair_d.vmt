@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models\TLOUS\inf-hair-b-color"
+$halflambert 0
+$translucent 1
+}

@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/TLOUS/inf-fem-jacket-c-color"
+	"$nocull" 1
+	"$bumpmap" "models/TLOUS/inf-fem-jacket-c-normal"
+
+	"$phong" "1"
+	"$phongexponent" 30
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.05 0.4 1]"
+	"$alphatest" 1
+}

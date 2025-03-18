@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dnzlgg/TLOU/tess/lashes"
+	"$translucent" 1
+	$nocull 1
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"nate159\tlou\ellie\new-ellie-hair-color - DXT1"
+	"$bumpmap"					"nate159\tlou\ellie\hair-normal - DXT1"
+	
+	$alphatest 					1
+	$alphatestreference 		0.7
+	$nocull 					1
+
+	$phong	 					1
+	$phongboost 				1.2
+	$phongexponent	 			1
+	$phongtint	 				"[1.4 1.1 1]"
+	$phongfresnelranges 		"[1.1 1.1 1.1]"
+	$phongwarptexture 			"nate159\tlou\ellie\fx_AlphaGrad_03b"	
+}

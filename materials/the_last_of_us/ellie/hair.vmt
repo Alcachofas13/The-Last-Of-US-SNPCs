@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "the_last_of_us/ellie/hair"
+    "$bumpmap" "the_last_of_us/ellie/hair_bump"
+    "$nocull" "1"
+    "$alphatest" "1"
+}

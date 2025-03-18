@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+    $basetexture 				"nate159\tlou\joel\joel-hairre1-color - DXT1"
+    $bumpmap 				"nate159\tlou\joel\joel-hairre1-normal"
+	$alphatest 					1
+	$alphatestreference 		0.7
+	$nocull 					1
+
+	$phong	 					1
+	$phongboost 				0.5
+	$phongexponent	 			1
+	$phongtint	 				"[1.1 1.1 1]"
+	$phongfresnelranges 		"[1.1 1.1 1.1]"
+	$phongwarptexture 			"nate159\tlou\joel\fx_AlphaGrad_03b"	
+}

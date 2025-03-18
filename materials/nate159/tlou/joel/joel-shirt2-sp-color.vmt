@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+    $basetexture 				"nate159\tlou\joel\joel-shirt2-sp-color - DXT1"
+    $bumpmap 					"nate159\tlou\joel\joel-shirt-sp-normal - DXT1"
+
+	"$nocull"					"1"
+	
+	//$envmap 					envmap
+	$envmaptint 				"[1 1 1]"
+	//$selfillum_envmapmask_alpha 1
+
+    $phong 						1
+    $phongexponent 				5
+	$PhongExponentTexture 		"nate159\tlou\joel\joel-shirt-spec - DXT5"	
+	$phongboost					0.7
+	$phongfresnelranges			"[1.2 1.2 1.2]"
+	$PhongAlbedoTint 			1
+}

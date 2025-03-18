@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Tess/scarf_d"
+	"$bumpmap" "models/Tess/scarf_n"
+"$nocull" 1
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "1.5"	
+	"$phongfresnelranges"	"[.05 0.1 0.3]"
+}

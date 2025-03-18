@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$spriteorientation" "vp_parallel_oriented"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$basetexture" "effects/tlou/zbeam2"
+	"$vertexcolor"	1
+	"$vertexalpha"	1
+	"$additive"		"1"
+}

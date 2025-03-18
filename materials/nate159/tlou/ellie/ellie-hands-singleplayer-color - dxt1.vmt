@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"nate159\tlou\ellie\ellie-hands-singleplayer-color - DXT1"
+	"$bumpmap"		"nate159\tlou\ellie\ellie-hands-singleplayer-normal - DXT1"	
+	//"$alphatest"	"1"
+	"$nocull"		"1"
+	//"$translucent"	"1"
+	
+	"$phong" 		"1"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[1.0 1.0 1.0]"
+	"$phongboost"	"0.75"
+	
+	$rimlight 					1										
+	$rimlightexponent 			50								
+	$rimlightboost 				0.2
+}

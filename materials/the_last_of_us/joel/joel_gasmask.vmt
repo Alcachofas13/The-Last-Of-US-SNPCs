@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "the_last_of_us/joel/joel_gasmask"
+	"$bumpmap" "the_last_of_us/joel/joel_gasmask_bump"
+    "$phong" "1"
+    "$phongboost" "0.5"
+    "$phongexponent" "5"
+    "$phongtint" "[1 1 1]"
+	"$phongfresnelranges" "[0.1 0.23 0.95]"
+    "$nodecal" "1"
+    "$ambientocclusion" "1"
+    "$halflambert" "1"
+    "$diffuseexp" "1.5"
+    "$rimlight" "1"
+    "$rimlightexponent" "4"
+    "$rimlightboost" "0.1"
+}

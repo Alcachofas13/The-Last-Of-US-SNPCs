@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models\TLOUS\inf-tear-cards-a-color"
+$halflambert 0
+$translucent 1
+}

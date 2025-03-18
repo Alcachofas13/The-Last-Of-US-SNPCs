@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Tess/Hair_d"
+"$bumpmap"	"models/Tess/Hair_n"
+	"$color2" "[0.8 0.8 0.8]"
+	"$PhongDisableHalfLambert" "1"
+
+	"$alphatest" "1"
+	"$alphatestreference" "0.7"
+
+	"$ambientocclusion" "0"
+	"$nocull" "1"	
+	$lightwarptexture "models/Tess/lightwarp_hair"
+	"$rimlightboost" "1"
+
+	"$phong" "0"						
+	"$phongboost"	"1" 		
+	"$phongexponenttexture" "models/Tess/green"  
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

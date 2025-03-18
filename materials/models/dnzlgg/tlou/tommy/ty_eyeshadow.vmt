@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/dnzlgg/tlou/tommy/ty_overlay_color"
+	
+	"$halflambert" 1
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+                "$model" 1
+	
+	"$bumpmapalphaphongmask"		"1"
+}
+

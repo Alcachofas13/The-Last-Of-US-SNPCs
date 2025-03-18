@@ -1,0 +1,6 @@
+"eyes"
+{
+"$basetexture" "models/dnzlgg/tlou/tommy/eyeball"
+"$iris" "models/dnzlgg/tlou/tommy/pupil"
+"$nodecal" "1" 
+}

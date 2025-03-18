@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "the_last_of_us/ellie/eyelashes"
+    "$nocull" 1
+    "$translucent" "1"
+}

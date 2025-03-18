@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "the_last_of_us/ellie/head_accessory_01"
+	"$bumpmap" "the_last_of_us/ellie/head_accessory_01_bump"
+	"$nocull" "1"
+    "$phong" "1"
+    "$phongboost" "0.2"
+    "$phongexponent" "8"
+    "$phongtint" "[.85 .85 1]"
+    "$phongfresnelranges" "[.2 .5 5]"
+    "$nodecal" "1"
+    "$ambientocclusion" "1"
+    "$halflambert" "1"
+    "$diffuseexp" "1.5"
+    "$rimlight" "1"
+    "$rimlightexponent" "1"
+    "$rimlightboost" "0.1"
+}

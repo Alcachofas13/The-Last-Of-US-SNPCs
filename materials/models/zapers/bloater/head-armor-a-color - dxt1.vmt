@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/zapers/bloater/head-armor-a-color - DXT1"
+                "$bumpmap" "models/zapers/bloater/head-armor-a-normal - DXT1"
+                "$detailblendmode" "2"
+	"$halflambert" 1
+	$phong 1
+	$phongexponent 3
+	$phongboost "0.2"
+  	$phongfresnelranges "[.5 .85 30]"
+} 

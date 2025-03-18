@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/zapers/bloater/blt-legs-a-color - DXT1"
+                "$bumpmap" "models/zapers/bloater/blt-legs-a-normal - DXT1"
+                "$detailblendmode" "2"
+	"$halflambert" 1
+	$phong 1
+	$phongexponent 3
+	$phongboost "0.2"
+  	$phongfresnelranges "[.5 .85 30]"
+}

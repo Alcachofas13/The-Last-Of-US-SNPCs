@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Tess/shirt_d"
+	"$bumpmap" "models/Tess/shirt_n"
+	"$halflambert" 1
+	"$rimlight" "1"
+	"$rimlightexponent" "6"							
+	"$rimlightboost" "1"
+	"$phong" 1
+	"$nocull" 1
+}

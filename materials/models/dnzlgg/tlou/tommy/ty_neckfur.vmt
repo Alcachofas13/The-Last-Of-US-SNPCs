@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dnzlgg/TLOU/tommy/ty_fur_color"
+	"$bumpmap" "models/dnzlgg/TLOU/tommy/ty_fur_normal"
+"$nocull" 1
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "0.5"	
+	"$phongfresnelranges"	"[.05 0.1 0.3]"
+}

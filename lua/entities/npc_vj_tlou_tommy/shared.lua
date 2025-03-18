@@ -1,0 +1,8 @@
+ENT.Base 			= "npc_vj_human_base"
+ENT.Type 			= "ai"
+ENT.PrintName 		= "Tommy"
+ENT.Author 			= "Alcachofas13"
+ENT.Contact 		= ""
+ENT.Purpose 		= "Spawn it and fight with it!"
+ENT.Instructions 	= "Click on the spawnicon to spawn it."
+ENT.Category		= "TLOU"

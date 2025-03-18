@@ -1,0 +1,50 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dnzlgg/tlou/tess/flashlight_d"
+	"$bumpmap" "models/dnzlgg/tlou/tess/flashlight_n"
+	"$color2" "[0.9 0.9 0.9]"
+	//"$blendTintByBaseAlpha"	"1"
+
+	//"$phongtint" "[///RGB_VALUE///]"	
+	"$PhongDisableHalfLambert" "1"
+	//TRANSPARENCY AND AO:
+
+	//"$additive" "1"
+	//"$translucent" "[///VALUE///]"
+	//"$alphatest" "[///VALUE///]"
+	//"$alphatestreference" "[///VALUE///]"
+
+	//"$ambientocclusion" "0"
+
+	//SELFILLUMINATION:
+
+	//"$selfillumtint" "[2 2 2]"
+	//"$selfillum" "1"
+	//"$selfillummask" "models/dnzlgg/tlou/tess/base"
+
+	//MISC:
+
+	//"$nocull" "////VALUE///"	
+
+	//"$normalmapalphaenvmapmask" "1" 	
+	//"$envmap" "env_cubemap"					
+	//"$envmaptint" "[0.04 0.04 0.04]"				
+ 	//"$envmapFresnel"  "[1.0] "
+
+	$lightwarptexture "models/dnzlgg/tlou/tess/lightwarp_soft"
+	//"$phongwarptexture"		""
+	//"$phongexponent" "///NUMBER_VALUE///"	
+
+	//"$rimlight" "1"
+	//"$rimlightboost" "1"
+	//"$rimmask" "1"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"1.5" 		
+	"$phongexponenttexture" "models/dnzlgg/tlou/tess/flashlight_s"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.05 0.5 1]"			
+	//"$PhongAlbedoTint" "1"
+
+}
